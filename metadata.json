@@ -1,0 +1,7 @@
+{
+  "name": "ConcreteCraft Pro",
+  "description": "A comprehensive design, quoting, and material research platform for professional concrete countertop artisans.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
